@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Channg ơii!',
+    introTitle: 'Baee à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,8 +12,8 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỷ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nắm 😘😘',
     messDesc: 'Tối nay anh call cho em nhé công chúa.',
-    btnAccept: 'Yêu quá <3',
+    btnAccept: 'Dạ vâng <3',
     messLink: 'https://www.facebook.com/profile.php?id=100008619903461'
 }
